@@ -23,6 +23,7 @@ __MACOSX/
 *.bk
 *.bkp
 *.bkup
+*.kate-swp
 *.old
 *.older
 *.oldest
